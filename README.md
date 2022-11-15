@@ -26,6 +26,6 @@ Meu nome é Luciano Vinicius, um desenvolvedor IOS em treinamento pela Apple Dev
 <div> 
 
   <a href = "mailto:luciano.uchoa@icomp.ufam.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/luciano-uchoa-1331931b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://https://www.linkedin.com/luciano-uchoa-1331931b3/](https://www.linkedin.com/in/luciano-uchoa-1331931b3/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
