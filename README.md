@@ -11,7 +11,7 @@ Meu nome é Luciano Vinicius, um desenvolvedor IOS em treinamento pela Apple Dev
   <a href="https://github.com/luchoa54">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luchoa54&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luchoa54&layout=compact&langs_count=9&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=luchoa54&layout=compact&langs_count=9&theme=vue-dark"/>
   
 </div>
 
